@@ -1,9 +1,10 @@
 # Drawing_App
 A simple Drawing App where Canvas is shared between Host and many Clients.
 
-Run rethinkDB first
+### Run rethinkDB first
 
 then perform
+```
 cd client
 yarn
 npm start
@@ -12,6 +13,8 @@ cd server
 yarn
 yarn start
 
+```
+
 go to localhost:3000
 
-ans See the Magic..!!
+See the Magic..!!
